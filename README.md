@@ -14,7 +14,7 @@
 
 <table>
 <tr><td>🌍 <b>Location</b></td><td>KSA</td></tr>
-<tr><td>🚀 <b>Currently at</b></td><td><a href="http://kleem.io">Kleem IO</a></td></tr>
+<tr><td>🚀 <b>Currently at</b></td><td><a href="https://webshopmanager.com">Web Shop Manager</a></td></tr>
 <tr><td>✉️ <b>Email</b></td><td><a href="mailto:satti.basil@gmail.com">satti.basil@gmail.com</a></td></tr>
 <tr><td>🤝 <b>Open to collaborate on</b></td><td>RAG · ModularRAG · Agent Orchestration · System Architecting · DevOps</td></tr>
 </table>
